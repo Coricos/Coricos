@@ -1,5 +1,5 @@
 ![LOGO](banner.png)
 
-### A bit of story about me:
+## A bit of story about me:
 
-### Where my head is banging on right now:
+## Where my head is banging on right now:
