@@ -2,4 +2,4 @@
 
 ## A bit of story about me:
 
-## Where my head is banging on right now:
+## What my head is banging on right now:
